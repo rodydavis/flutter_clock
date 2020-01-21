@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter|lib/material.dart","flutter_clock_helper|lib/model.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

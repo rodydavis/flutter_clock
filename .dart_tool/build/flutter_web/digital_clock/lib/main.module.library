@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter_clock_helper|lib/customizer.dart","flutter_clock_helper|lib/model.dart","flutter|lib/material.dart","digital_clock|lib/button.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":true}
